@@ -1,3 +1,5 @@
 # personal-resume
 personal resume
-https://bruce-maoo.github.io/personal-resume/index.html
+--------------------------------------------------------------------------------
+<a href="https://bruce-maoo.github.io/personal-resume/index.html">网站浏览</a>
+--------------------------------------------------------------------------------
